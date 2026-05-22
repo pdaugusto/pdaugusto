@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=00FF41,00FF9F&height=125&section=header&animation=blinking&stroke=000000&strokeWidth=1.5" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=00FF41,22FF88&height=130&section=header&animation=blinking&stroke=000000&strokeWidth=2" alt="Neon Top" />
 </div>
 
 <br><br>
