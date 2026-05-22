@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=4000&color=39FF14&center=true&vCenter=true&width=650&lines=Pedro+Augusto;pdaugusto;GIPAR+%7C+NARA+Project;ROS2+%26+Rob%C3%B3tica+M%C3%B3vel" />
+</div>
+
 ### 👋 Sobre mim
 
 Estudante de **Engenharia Elétrica** no Instituto Federal da Bahia (IFBA) - Campus Vitória da Conquista.
