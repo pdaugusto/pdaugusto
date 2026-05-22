@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=00FF41,39FF14&height=140&section=header&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=00FF41,39FF14&height=135&section=header&animation=blinking&stroke=000000&strokeWidth=1" alt="Neon Banner" />
 </div>
+
+<br><br>
 <br><br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=4000&color=00FF41&center=true&vCenter=true&width=720&lines=Bem-vindo+ao+meu+perfil!;Me+chamo+Pedro+Augusto;Sou+um+Desenvolvedor;Sou+um+Pesquisador" alt="Welcome" />
