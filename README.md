@@ -16,15 +16,22 @@ Membro do **GIPAR** (Grupo de Inovação e Pesquisa em Automação e Robótica),
 
 ---
 
-### 🔧 Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas
 
-- **ROS 2** (Humble / Jazzy)
-- **Gazebo**, **RViz2**, **SLAM** e **Nav2**
-- Controle de robótica móvel (Ackermann Steering)
-- Python e C++
-- Linux (Ubuntu)
+**Robótica & Programação**
+![ROS 2](https://img.shields.io/badge/ROS_2-22314C?style=for-the-badge&logo=ros&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
+**Design & Criação**
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792C?style=for-the-badge&logo=blender&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 📍 Localização
 Vitória da Conquista - Bahia, Brasil
