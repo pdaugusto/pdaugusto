@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColor=00FF41&height=150&section=header&text=Pedro%20Augusto&fontSize=40&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:00D4FF&height=160&section=header&text=pdaugusto&fontSize=45&fontAlignY=38" />
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=4000&color=00FF41&center=true&vCenter=true&width=720&lines=Bem-vindo+ao+meu+perfil!;Me+chamo+Pedro+Augusto;Sou+um+Desenvolvedor;Sou+um+Pesquisador" alt="Welcome" />
 </div>
