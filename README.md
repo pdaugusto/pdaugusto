@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&duration=4000&color=39FF14&center=true&vCenter=true&width=650&lines=Pedro+Augusto;pdaugusto;GIPAR+%7C+NARA+Project;ROS2+%26+Rob%C3%B3tica+M%C3%B3vel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&color=00D4FF&center=true&vCenter=true&width=720&lines=Pedro+Augusto;pdaugusto;Engenharia+Elétrica+IFBA" alt="Typing SVG" />
 </div>
+<br><br>
 
 ### 👋 Sobre mim
 
