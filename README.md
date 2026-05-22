@@ -4,6 +4,8 @@
 
 <br><br>
 
+---
+
 ### 👋 Sobre mim
 
 Estudante de **Engenharia Elétrica** no Instituto Federal da Bahia (IFBA) - Campus Vitória da Conquista.
