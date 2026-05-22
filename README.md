@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=4200&color=00FF41&center=true&vCenter=true&width=720&lines=Me+chamo+Pedro+Augusto;Sou+um+Desenvolvedor;Sou+um+Pesquisador;Engenharia+El%C3%A9trica+IFBA;GIPAR+-+Rob%C3%B3tica" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=4000&color=00FF41&center=true&vCenter=true&width=720&lines=Bem-vindo+ao+meu+perfil!;Me+chamo+Pedro+Augusto;Sou+um+Desenvolvedor;Sou+um+Pesquisador" alt="Welcome" />
 </div>
 
 <br><br>
+
 ### 👋 Sobre mim
 
 Estudante de **Engenharia Elétrica** no Instituto Federal da Bahia (IFBA) - Campus Vitória da Conquista.
