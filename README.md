@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=27&duration=3500&color=00FF41&center=true&vCenter=true&width=680&lines=Pedro+Augusto;pdaugusto;Engenharia+El%C3%A9trica+IFBA;GIPAR+-+Rob%C3%B3tica+M%C3%B3vel" alt="Robotic Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=3800&color=00FF41&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil!;Pedro+Augusto;pdaugusto;Engenharia+El%C3%A9trica+IFBA;GIPAR+-+Rob%C3%B3tica+M%C3%B3vel" alt="Welcome" />
 </div>
 
 <br><br>
