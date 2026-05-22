@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Sobre mim
 
-<!--
-**pdaugusto/pdaugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia Elétrica** no Instituto Federal da Bahia (IFBA) - Campus Vitória da Conquista.
 
-Here are some ideas to get you started:
+Membro do **GIPAR** (Grupo de Inovação e Pesquisa em Automação e Robótica), onde participo do desenvolvimento de projetos de robótica móvel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Projetos Principais
+
+- **NARA** — Primeira cadeira de rodas autônoma do Brasil  
+  Desenvolvimento de navegação autônoma, mapeamento e controle inteligente.
+
+- **Smart Camaro** — Veículo autônomo de entrega  
+  Plataforma real com implementação de controle Ackermann, ROS 2 e simulação em Gazebo.
+
+---
+
+### 🔧 Tecnologias e Ferramentas
+
+- **ROS 2** (Humble / Jazzy)
+- **Gazebo**, **RViz2**, **SLAM** e **Nav2**
+- Controle de robótica móvel (Ackermann Steering)
+- Python e C++
+- Linux (Ubuntu)
+
+---
+
+### 📍 Localização
+Vitória da Conquista - Bahia, Brasil
