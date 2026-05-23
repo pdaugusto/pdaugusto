@@ -9,7 +9,7 @@
 
 Estudante de **Engenharia Elétrica** no Instituto Federal da Bahia (IFBA) - Campus Vitória da Conquista.
 
-Membro do **GIPAR** (Grupo de Inovação e Pesquisa em Automação e Robótica), onde participo do desenvolvimento de projetos de robótica móvel.
+Membro do **GIPAR** (Grupo de Inovação e Pesquisa em Automação e Robótica), onde participo do desenvolvimento de projetos de robótica e automação.
 
 ---
 
