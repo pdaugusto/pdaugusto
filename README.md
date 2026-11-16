@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Pedro Augusto. @pdaugusto — Vitória da Conquista, Bahia. Assinatura animada em preto e branco." />
+  <img src="assets/poster-v2.png" width="100%" alt="Pedro Augusto — Code / Web / SaaS. Pôster em preto e branco com meu retrato em retícula, letras recortadas e textura de xerox." />
+  <img src="assets/signal-v2.svg" width="100%" alt="const pedro = [web, saas, robotics]; — faixa de código animada." />
 </p>
 
 <p align="center">
@@ -10,7 +11,7 @@
 
 <br>
 
-### Um pouco sobre mim
+### Entre sites, SaaS e robôs.
 
 Sou **Pedro Augusto**, de Vitória da Conquista, Bahia. Curto programar, criar sites e desenvolver ideias de SaaS.
 
