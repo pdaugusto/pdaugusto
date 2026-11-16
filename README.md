@@ -1,40 +1,46 @@
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Pedro Augusto. @pdaugusto — Vitória da Conquista, Bahia. Assinatura animada em preto e branco." />
+</p>
 
-<br><br>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=4000&color=00FF41&center=true&vCenter=true&width=720&lines=Bem-vindo+ao+meu+perfil!;Me+chamo+Pedro+Augusto;Sou+um+Desenvolvedor;Sou+um+Pesquisador" alt="Welcome" />
-</div>
-<br><br>
+<p align="center">
+  <a href="https://github.com/pdaugusto?tab=repositories">Repositórios</a> &nbsp; / &nbsp;
+  <a href="https://github.com/GIPAR">GIPAR</a> &nbsp; / &nbsp;
+  <a href="#projetos">Projetos</a>
+</p>
 
-### 👋 Sobre mim
+<br>
 
-Estudante de **Engenharia Elétrica** no Instituto Federal da Bahia (IFBA) - Campus Vitória da Conquista.
+### Um pouco sobre mim
 
-Membro do **GIPAR** (Grupo de Inovação e Pesquisa em Automação e Robótica), onde participo do desenvolvimento de projetos de robótica e automação.
+Sou **Pedro Augusto**, de Vitória da Conquista, Bahia. Curto programar, criar sites e desenvolver ideias de SaaS.
+
+Estudo **Engenharia Elétrica no IFBA** e faço parte do **GIPAR**, onde participo de projetos de robótica e automação. Entre interfaces e robôs, gosto de construir coisas com código.
+
+<br>
+
+### Projetos
+
+**[Smart Camaro ↗](https://github.com/GIPAR/noblecamaro)**  
+Veículo autônomo de entrega. Direção Ackermann, ROS 2 e simulação em Gazebo.
+
+**[NARA ↗](https://github.com/GIPAR/noblenara)**  
+Primeira cadeira de rodas autônoma do Brasil. Navegação, mapeamento e controle inteligente.
+
+**[Waypoint Navigator ↗](https://github.com/pdaugusto/waypoint_navigator)**  
+Navegação por waypoints com ROS 2 e Nav2, testada na simulação do Smart Camaro.
+
+<br>
+
+### Ferramentas que uso
+
+**Robótica e desenvolvimento**  
+`ROS 2` · `Python` · `C++` · `Gazebo` · `Linux` · `Ubuntu`
+
+**Criação e organização**  
+`Photoshop` · `Illustrator` · `Premiere Pro` · `Blender` · `Notion`
+
+<br>
 
 ---
 
-### 🛠️ Projetos Principais
-
-- **NARA** — Primeira cadeira de rodas autônoma do Brasil  
-  Desenvolvimento de navegação autônoma, mapeamento e controle inteligente.
-
-- **Smart Camaro** — Veículo autônomo de entrega  
-  Plataforma real com implementação de controle Ackermann, ROS 2 e simulação em Gazebo.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-![ROS 2](https://img.shields.io/badge/ROS_2-22314C?style=for-the-badge&logo=ros&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=gazebo&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792C?style=for-the-badge&logo=blender&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-### 📍 Localização
-Vitória da Conquista - Bahia, Brasil
+<p align="center"><sub>Pedro Augusto &nbsp; · &nbsp; Bahia, Brasil</sub></p>
