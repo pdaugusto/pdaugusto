@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="86" viewBox="0 0 1000 86" role="img" aria-labelledby="title">
+<title id="title">const pedro = [web, saas, robotics];</title>
+<style>
+.cursor{animation:blink 1.4s steps(1,end) infinite}.scan{animation:scan 9s linear infinite}.mark{transform-origin:955px 40px;animation:turn 20s linear infinite}
+@keyframes blink{50%{opacity:0}}@keyframes scan{to{stroke-dashoffset:-1000}}@keyframes turn{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.cursor,.scan,.mark{animation:none}}
+</style>
+<rect width="1000" height="86" fill="#080808"/>
+<text x="24" y="49" fill="#eee" font-size="23" font-family="monospace">const pedro = ["web", "saas", "robotics"];</text>
+<rect class="cursor" x="594" y="29" width="12" height="24" fill="#fff"/>
+<path d="M0 79H1000" stroke="#333"/>
+<path class="scan" d="M0 79H1000" stroke="#fff" stroke-dasharray="100 900"/>
+<path class="mark" d="M955 22Q955 40 973 40Q955 40 955 58Q955 40 937 40Q955 40 955 22Z" fill="#fff"/>
+</svg>
